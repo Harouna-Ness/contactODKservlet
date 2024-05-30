@@ -1,0 +1,3 @@
+com\gestion\contactodc\resources\JakartaEE8Resource.class
+com\gestion\contactodc\ContactServlet.class
+com\gestion\contactodc\JakartaRestConfiguration.class
